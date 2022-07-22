@@ -9,7 +9,7 @@ A Simple web scraper application with real-time functiionalites, thanks to Larav
 <li>XAMPP or LAMP or WAMP (depending on your OS)</li>
 </ul>
 
-##Instalation Guide
+## Installation Guide
 1.  Install Laravel 8.0 (For this package we will need Laravel 8.0)
 2.  Install Inertia.js (Inertia.js will be used to connect Laravel backend to Vue.js wihtout the need for writing our own API(endpoint) like any other traditional           pattern.click <a href="https://inertiajs.com">here</a> for setup guideline).
 3.  Npm Install to install node modules and all dependencies.
