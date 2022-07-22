@@ -19,9 +19,9 @@ A Simple web scraper application with real-time functiionalites, thanks to Larav
 7.  Create Pages folder 
 8.  Create a Vue file
 9.  From inertia.js documentation for client side setup, paste the required code in app.js
-10.  Routes can be created in web.php or custom contollers, and data passed to vue component using the inertia helper or by "use Inertia\Inertia".
-11.  Run Npm mix watch to build static mix asset accessible in th public folder
-12.  We will be using Bootsrtap for styling so run Npm install Bootstrap like so: nom install Bootstrap.
+10.  Routes can be created in web.php or custom controllers, and data passed to vue component using the inertia helper or by "use Inertia\Inertia".
+11.  Run Npm mix watch to build static mix asset accessible in the public folder
+12.  We will be using Bootstrap for styling so run Npm install Bootstrap like so: nom install Bootstrap.
 13.  Laravel Queue jobs will be employed here for sending data to the database. A detailed Setup of Queue Jobs can be found <a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">here</a>.
 14.  Laravel Websocket will also be used for real-time event monitoring and execution after which the data needed is passed to Laravel Echo in the vue Component. A detailed setup of Laravel Webscokects can be found <a href="https://laravel.com/docs/8.x/queues">here</a>.
 
